@@ -1,1 +1,1 @@
-print("Super Mario")
+print("Mario Multiverse")

@@ -1,6 +1,7 @@
 # Mario_become_a_Jedi
 
 📜 Story
+
 In the peaceful Mushroom Kingdom, Princess Peach lives happily — until the day everything changes.
 Donkey Kong, consumed by jealousy and rage, hatches a plan to kidnap the Princess. But knowing he cannot succeed alone, he makes a dark alliance with the most feared villain in the galaxy : Darth Vader. In exchange for his army of Stormtroopers and Sith apprentices, Donkey Kong promises Vader control over the Mushroom Kingdom.
 Together, they strike. Princess Peach is kidnapped and taken across the galaxy, hidden deep inside the Death Star.
